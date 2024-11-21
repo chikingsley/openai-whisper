@@ -1,0 +1,1 @@
+{"text": " eat but it's doing something.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " eat but it's doing something.", "tokens": [50363, 4483, 475, 340, 338, 1804, 1223, 13, 50463], "temperature": 0.0, "avg_logprob": -0.4831601619720459, "compression_ratio": 0.8285714285714286, "no_speech_prob": 0.2613063454627991}], "language": "English"}

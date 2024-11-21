@@ -1,0 +1,1 @@
+{"text": " Well, works.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 4.12, "text": " Well, works.", "tokens": [50364, 1042, 11, 1985, 13, 50570], "temperature": 1.0, "avg_logprob": -1.3158565248761858, "compression_ratio": 0.6, "no_speech_prob": 0.0864042118191719}], "language": "English"}

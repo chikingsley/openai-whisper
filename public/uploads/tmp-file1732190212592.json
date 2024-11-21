@@ -1,0 +1,1 @@
+{"text": " a", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.98, "text": " a", "tokens": [50363, 257, 50512], "temperature": 1.0, "avg_logprob": -3.339599609375, "compression_ratio": 0.1111111111111111, "no_speech_prob": 0.38996177911758423}], "language": "English"}

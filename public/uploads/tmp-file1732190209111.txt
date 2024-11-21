@@ -1,0 +1,3 @@
+Js, schedule management and long term memory with schedule management you can
+command the bot to add modified delete retrieve scheduled events
+All to memory.

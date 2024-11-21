@@ -1,0 +1,4 @@
+of chat assistant embeddings converts texts to vector data that can be used in tasks like
+semantic searching and the latest text speech can be spoken like that.
+But it's built in NUCST.
+I'll just go.

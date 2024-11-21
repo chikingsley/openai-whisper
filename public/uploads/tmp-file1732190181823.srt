@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:07,260
+conversation application powered by OpenAI, Whisper using ASR, check
+
+2
+00:00:07,260 --> 00:00:09,260
+completions in the interface.
+

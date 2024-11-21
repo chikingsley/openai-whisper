@@ -1,0 +1,2 @@
+conversation application powered by OpenAI, Whisper using ASR, check
+completions in the interface.
